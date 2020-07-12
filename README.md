@@ -8,12 +8,15 @@ This project is one component of a larger project I hope to complete comparing t
 
 # A little background 
 
-The license plate you apply for is more restrictive of in China than in the USA. One major being the difference being the type of license you have determines where in the city you are allowed to drive. For example, a person with a license registered in Beijing would not be allowed to drive on the streets in Shanghai. The information provided on the license plate allows people to know where they are and aren't allowed to dirve. The format of a license plate in China is as follows: 沪A.73B28. The first and only Chinese character determines the city/province where the driver could drive. In this example, the character 沪 (hu4) represents licenses registered in Shanghai. The second letter outlays a more specific area the driver is permitted to drive in. Going along with our example, in Shanghai the letters A-B, D-H, and J-N grant the driver to drive in urban/suburban areas while a C letter license is only allowed to drive in the suburbs of Shanghai and not the cities center.(3) Major cities in China follow this aproach with some variation in leter meaning. For For registrants outside of major cities, there is a general province wide character. Sorry, no cross China roadtrips happening with this law in place.
+The license plate you apply for is more restrictive of in China than in the USA. One major being the difference being the type of license you have determines where in the city you are allowed to drive. For example, a person with a license registered in Beijing would not be allowed to drive on the streets in Shanghai. The information provided on the license plate allows people to know where they are and aren't allowed to dirve. The format of a license plate in China is as follows: 沪A.73B28. The first and only Chinese character determines the city/province where the driver could drive. In this example, the character 沪 (hu4) represents licenses registered in Shanghai. The second letter outlays a more specific area the driver is permitted to drive in. Going along with our example, in Shanghai the letters A-B, D-H, and J-N grant the driver to drive in urban/suburban areas while a C letter license is only allowed to drive in the suburbs of Shanghai and not the cities center.(3) Major cities in China follow this aproach with some variation in leter meaning. For For registrants outside of major cities, there is a general province wide character. Sorry, no cross China roadtrips happening anytime soon.
 
 # The cost
 
 So how could a license plate possibly cost as much as the car your trying to register in the first place? The short answer: a huge demand in an auction-type system.  
-Unlike other cities in China, Shanghai uses an aution based system that drives the cost of 
+Unlike some cities in China, Shanghai uses an aution based system that drives the cost of plates to incredible hights.  
+
+
+4 unlucky, 8 lucky
 
 
 1. New York State Department of Motor Vehicles - Passenger vehicle registration fees: https://dmv.ny.gov/registration/registration-fees-use-taxes-and-supplemental-fees-passenger-vehicles
