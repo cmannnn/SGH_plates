@@ -13,8 +13,8 @@ The license plate in China is much more restrictive in China. The biggest differ
 # The cost
 
 So how could a license plate possibly cost as much as the car your trying to register in the first place? The short answer: a huge demand in an auction-type system.  
-Unlike some cities in China, Shanghai uses an aution based system that drives the cost of plates to incredible hights.  
-
+Unlike some cities in China, Shanghai uses an aution based system that drives the cost of plates to incredible hights. In Figure_1 you can see the datetime line graph of the winning bids of license plates in Shanghai. The red line represents to the number of applicants in the auction and the blue line represents the price of the winning bid.
+14,099元
 
 4 unlucky, 8 lucky
 
